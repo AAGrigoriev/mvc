@@ -194,7 +194,7 @@ WARN_FORMAT            = "$file:$line: $text"
 
 WARN_LOGFILE           =
 
-INPUT                  = @CMAKE_CURRENT_SOURCE_DIR@/projec_mvc/
+INPUT                  = @CMAKE_CURRENT_SOURCE_DIR@/project_mvc/
 
 INPUT_ENCODING         = UTF-8
 
